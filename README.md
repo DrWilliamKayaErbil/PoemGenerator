@@ -48,7 +48,7 @@ POSTGRESQL_PORT=18887
 ```
 
 #### Create a Database
-If you are using Compose for PostgreSQL a database called `compose` should have been created for you. If are using another PostgreSQL provider be sure to create a database and specify the database name in the _.env_ file.
+If you are using Compose for PostgreSQL a database called `compose` will have been created for you. If you are using another PostgreSQL provider be sure to create a database and specify the database name in the _.env_ file.
 
 ## 3. Set up a Python Virtual Environment (Optional)
 If you prefer to use virtual environments configure one at this step. A virtual environment is a tool to keep the dependencies required by different projects in separate places. You can create and activate a virtual environment by running the following commands:
